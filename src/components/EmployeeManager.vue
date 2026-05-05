@@ -7,7 +7,7 @@ import axios from 'axios';
 // Note: If the MockAPI endpoint is invalid or unreachable, the app will show errors.
 // Using a placeholder URL. You must create an endpoint at mockapi.io with fields:
 // name, designation, department, salary (id is auto-generated).
-const API_URL = 'https://69f75beedd0c226688eda79f.mockapi.io/managementsystem'; 
+const API_URL = 'https://69fa18ffc509a40d3aa3e622.mockapi.io/employeemanagement'; 
 
 const employees = ref([]);
 const loading = ref(false);
